@@ -1,2 +1,2 @@
 # HelloWorld
-My Repository!
+This repository contains one of the worlds most usefull piece of software!
