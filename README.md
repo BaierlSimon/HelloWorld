@@ -3,10 +3,12 @@ This repository contains one of the worlds most useful piece of software!
 On execute, the console returns the text "Hello World!".
 
 
-![hallo](https://user-images.githubusercontent.com/41597555/102718822-a4d2f000-42ea-11eb-93d2-3e5caac19624.PNG)
-![world](https://user-images.githubusercontent.com/41597555/102718928-35113500-42eb-11eb-93af-fa501230ed9d.PNG)
+
+
 
 **Requirements** 
 
 The program is written in Java, so you will need a development environment supporting Java to execute it.
 If you have that, just open the src folder and execute the program "HelloWorld.java". 
+
+![gt](https://user-images.githubusercontent.com/41597555/103013623-c4158b80-453d-11eb-91a4-9d1acc293033.PNG)
